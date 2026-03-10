@@ -25,9 +25,9 @@ Mais projetos em breve...
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theGLabs&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=theGLabs&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theGLabs&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theGLabs&layout=compact)
 
 ---
 
