@@ -14,15 +14,6 @@
 
 ---
 
-## 📂 Projetos
-
-☕ **Café Guilado**  
-Site de cafeteria desenvolvido para praticar HTML, CSS e organização de projeto.
-
-Mais projetos em breve...
-
----
-
 ## 📈 Estatísticas do GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=theGLabs&show_icons=true)
